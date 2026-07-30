@@ -2,6 +2,12 @@
 
 ![moe-counter](https://count.getloli.com/@akutori?name=akutori&theme=booru-touhoulat&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akutori/akutori/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akutori/akutori/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akutori/akutori/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!--
 **akutori/akutori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
